@@ -4,8 +4,18 @@
 
 # Spring Cloud Alibaba学习笔记总目录
 
-> **由于篇幅原因，为了不影响阅读在这就展示了整个目录和内容截图 ，这份已经整理成文档的Spring Cloud Alibaba笔记有需要的朋友加合作微信号：xue19992020 即可来免费领取！**
+> **有需要的朋友可点击链接加入群聊【java架构交流Q群：930254941 】：https://jq.qq.com/?_wv=1027&k=v3h0UQNv 来免费领取 或者直接加管理QQ：3186979332 免费领取**
 
-![](https://upload-images.jianshu.io/upload_images/11474088-e47ebc008836280d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![img](https://pic3.zhimg.com/80/v2-a638d5c5046817905d98b116d1a1a5f5_720w.jpeg)
+
+![img](https://pic4.zhimg.com/80/v2-8a4338afa2c09a6f958f6fe204307453_720w.jpeg)
+
+![img](https://pic2.zhimg.com/80/v2-34efa8a7f9c33b30d25ad78fc1850168_720w.jpeg)
+
+![img](https://pic3.zhimg.com/80/v2-a09dbec325d9385c4e65ef71eb321caa_720w.jpeg)
+
+![img](https://pic4.zhimg.com/80/v2-0ac9c9d0e6e6155ec6af50526bcc8b1a_720w.jpeg)
+
+##  内容展示
 
 ![](https://upload-images.jianshu.io/upload_images/11474088-f9dcf595477c917a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
